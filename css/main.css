@@ -75,7 +75,7 @@ main {
     color: rgb(255, 255, 255);
     grid-column: 1;
     grid-row: 2;
-    display: flex;
+    /*display: flex;*/
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
@@ -192,7 +192,7 @@ main {
     grid-column: 1/-1;
     grid-row: 6;
 }
-
+/*
 @media screen and (max-width: 768px) {
     header, footer {
         margin: 1.25em auto;
@@ -266,4 +266,4 @@ main {
         grid-row-end: 5;
     }
   }
-
+*/
